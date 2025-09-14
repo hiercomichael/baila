@@ -1,8 +1,8 @@
 
-export default function EventsPage() {
+export default function ContactPage() {
   return (
     <div className="grid">
-      events page
+      contact page
     </div>
   );
 }

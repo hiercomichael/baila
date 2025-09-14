@@ -1,8 +1,8 @@
 
-export default function EventsPage() {
+export default function AboutPage() {
   return (
     <div className="grid">
-      events page
+      about Page
     </div>
   );
 }
